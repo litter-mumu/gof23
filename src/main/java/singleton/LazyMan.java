@@ -1,5 +1,3 @@
-package gof23.single;
-
 //懒汉式单例
 public class LazyMan {
     private LazyMan() {

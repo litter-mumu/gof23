@@ -1,4 +1,4 @@
-package gof23.single;
+package src.main.java.singleton;
 
 //饿汉式单例
 public class HungryMan {

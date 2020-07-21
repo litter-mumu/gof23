@@ -20,8 +20,3 @@
     抽象工厂模式
         不可以增加产品，可以增加产品族
 
-应用场景：
-    JDK中Calendar的getInstance方法
-    JDBC中的Connection对象的获取
-    Spring中IOC容器创建管理bean对象
-    反射中Class对象的newInstance方法
